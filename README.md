@@ -15,7 +15,6 @@
 6. [Dependencies](#dependencies)
 7. [Compilation](#compilation)
 8. [Execution](#execution)
-9. [Acknowledgments](#acknowledgments)
 
 ---
 
